@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mechatron.ir/sitemap.xml
+Host: https://mechatron.ir
